@@ -17,7 +17,7 @@ contract CX is Context, IERC20, Ownable {
     mapping (address => mapping (address => uint256)) private _allowances;
     mapping (address => uint256) private _balances;
 
-    string private _name = "CardX";
+    string private _name = "Cardex";
     string private _symbol = "CX";
     uint8 private _decimals = 18;
     uint256 private _totalSupply = 100000e18;

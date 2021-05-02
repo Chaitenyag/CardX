@@ -1,4 +1,4 @@
-# CardX
+# Cardex
 ## Features
 - Native Token
 This would be the native token on the Binance Smart chain with the tax functionality
