@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 
-pragma solidity ^0.6.0;
+pragma solidity ^0.8.4;
 
  /**
  * @title Contract that will work with ERC223 tokens.
